@@ -23,7 +23,7 @@ const Navbar = () => {
 
         <Button >
           <Link to={'/add'} style={{textDecoration:'none', color:'white'}}>
-            <Addd></Addd>
+            Addd
             </Link>
             </Button>
       </Toolbar>
